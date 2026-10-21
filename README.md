@@ -9,6 +9,7 @@
 | [0495-teemo-attacking](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0495-teemo-attacking) |
 | [0605-can-place-flowers](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0605-can-place-flowers) |
 | [0733-flood-fill](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0733-flood-fill) |
+| [0888-fair-candy-swap](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0888-fair-candy-swap) |
 ## Greedy
 |  |
 | ------- |
@@ -33,4 +34,16 @@
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0733-flood-fill) |
+## Hash Table
+|  |
+| ------- |
+| [0888-fair-candy-swap](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0888-fair-candy-swap) |
+## Binary Search
+|  |
+| ------- |
+| [0888-fair-candy-swap](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0888-fair-candy-swap) |
+## Sorting
+|  |
+| ------- |
+| [0888-fair-candy-swap](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0888-fair-candy-swap) |
 <!---LeetCode Topics End-->
