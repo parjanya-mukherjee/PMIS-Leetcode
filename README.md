@@ -7,6 +7,7 @@
 | [0228-summary-ranges](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0283-move-zeroes) |
 | [0495-teemo-attacking](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0495-teemo-attacking) |
+| [0575-distribute-candies](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0605-can-place-flowers) |
 | [0733-flood-fill](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0733-flood-fill) |
 | [0888-fair-candy-swap](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0888-fair-candy-swap) |
@@ -38,6 +39,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0575-distribute-candies](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0575-distribute-candies) |
 | [0888-fair-candy-swap](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0888-fair-candy-swap) |
 | [0929-unique-email-addresses](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0929-unique-email-addresses) |
 ## Binary Search
