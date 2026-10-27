@@ -12,12 +12,14 @@
 | [0605-can-place-flowers](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0605-can-place-flowers) |
 | [0733-flood-fill](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0832-flipping-an-image) |
+| [0860-lemonade-change](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0860-lemonade-change) |
 | [0888-fair-candy-swap](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0888-fair-candy-swap) |
 | [0929-unique-email-addresses](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0929-unique-email-addresses) |
 ## Greedy
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0605-can-place-flowers) |
+| [0860-lemonade-change](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0860-lemonade-change) |
 ## Two Pointers
 |  |
 | ------- |
