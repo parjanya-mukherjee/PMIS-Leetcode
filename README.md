@@ -62,8 +62,13 @@
 |  |
 | ------- |
 | [0929-unique-email-addresses](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0929-unique-email-addresses) |
+| [1360-number-of-days-between-two-dates](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/1360-number-of-days-between-two-dates) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0832-flipping-an-image) |
+## Math
+|  |
+| ------- |
+| [1360-number-of-days-between-two-dates](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/1360-number-of-days-between-two-dates) |
 <!---LeetCode Topics End-->
