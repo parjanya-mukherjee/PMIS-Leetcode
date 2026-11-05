@@ -7,6 +7,7 @@
 | [0228-summary-ranges](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0414-third-maximum-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0495-teemo-attacking](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0495-teemo-attacking) |
 | [0575-distribute-candies](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0605-can-place-flowers) |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0414-third-maximum-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0888-fair-candy-swap](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0888-fair-candy-swap) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String
@@ -75,6 +77,7 @@
 ## Math
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1360-number-of-days-between-two-dates](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/1360-number-of-days-between-two-dates) |
 ## Stack
 |  |
