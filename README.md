@@ -61,6 +61,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0020-valid-parentheses) |
 | [0929-unique-email-addresses](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0929-unique-email-addresses) |
 | [1360-number-of-days-between-two-dates](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/1360-number-of-days-between-two-dates) |
 ## Bit Manipulation
@@ -71,4 +72,12 @@
 |  |
 | ------- |
 | [1360-number-of-days-between-two-dates](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/1360-number-of-days-between-two-dates) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
