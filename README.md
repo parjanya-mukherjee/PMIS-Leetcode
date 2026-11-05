@@ -15,6 +15,7 @@
 | [0860-lemonade-change](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0860-lemonade-change) |
 | [0888-fair-candy-swap](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0888-fair-candy-swap) |
 | [0929-unique-email-addresses](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0929-unique-email-addresses) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | ------- |
 | [0283-move-zeroes](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0283-move-zeroes) |
 | [0832-flipping-an-image](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0832-flipping-an-image) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Simulation
 |  |
 | ------- |
@@ -53,11 +55,13 @@
 |  |
 | ------- |
 | [0888-fair-candy-swap](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0888-fair-candy-swap) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0414-third-maximum-number) |
 | [0888-fair-candy-swap](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0888-fair-candy-swap) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String
 |  |
 | ------- |
