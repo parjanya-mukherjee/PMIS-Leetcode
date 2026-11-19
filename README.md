@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0053-maximum-subarray) |
 | [0228-summary-ranges](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0414-third-maximum-number) |
@@ -87,4 +88,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0020-valid-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
