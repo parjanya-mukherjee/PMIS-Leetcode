@@ -26,6 +26,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0283-move-zeroes) |
 | [0832-flipping-an-image](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0832-flipping-an-image) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0125-valid-palindrome) |
 | [0929-unique-email-addresses](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0929-unique-email-addresses) |
 | [1360-number-of-days-between-two-dates](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/1360-number-of-days-between-two-dates) |
 ## Bit Manipulation
