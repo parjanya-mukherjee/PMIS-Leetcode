@@ -51,6 +51,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0242-valid-anagram) |
 | [0575-distribute-candies](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0575-distribute-candies) |
 | [0888-fair-candy-swap](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0888-fair-candy-swap) |
 | [0929-unique-email-addresses](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0929-unique-email-addresses) |
@@ -62,6 +63,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0414-third-maximum-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0888-fair-candy-swap](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0888-fair-candy-swap) |
@@ -71,6 +73,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0242-valid-anagram) |
 | [0929-unique-email-addresses](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0929-unique-email-addresses) |
 | [1360-number-of-days-between-two-dates](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/1360-number-of-days-between-two-dates) |
 ## Bit Manipulation
