@@ -18,6 +18,7 @@
 | [0888-fair-candy-swap](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0888-fair-candy-swap) |
 | [0929-unique-email-addresses](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0929-unique-email-addresses) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1572-matrix-diagonal-sum](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | ------- |
 | [0733-flood-fill](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/0832-flipping-an-image) |
+| [1572-matrix-diagonal-sum](https://github.com/parjanya-mukherjee/PMIS-Leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
 |  |
 | ------- |
